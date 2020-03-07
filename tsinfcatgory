@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Arabic",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/Arabic.json"
+  },
+  {
+    "name": "brony",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/brony.json"
+  },
+  {
+    "name": "dance",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/dance.json"
+  },
+  {
+    "name": "dirtysouth",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/dirtysouth.json"
+  },
+  {
+    "name": "hausa",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/hausa.json"
+  },
+  {
+    "name": "jpop",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/jpop.json"
+  },
+  {
+    "name": "kannada",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/kannada.json"
+  },
+  {
+    "name": "kpop",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/kpop.json"
+  },
+  {
+    "name": "Ku_logo",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/Ku_logo.json"
+  },
+  {
+    "name": "malayalam",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/malayalam.json"
+  },
+  {
+    "name": "marathi",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/marathi.json"
+  },
+  {
+    "name": "motown",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/motown.json"
+  },
+  {
+    "name": "quran_translate",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/quran_translate.json"
+  },
+  {
+    "name": "schlager",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/schlager.json"
+  },
+  {
+    "name": "swahili",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/swahili.json"
+  },
+  {
+    "name": "tagalog",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/tagalog.json"
+  },
+  {
+    "name": "tamil",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/tamil.json"
+  },
+  {
+    "name": "tango",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/tango.json"
+  },
+  {
+    "name": "telugu",
+    "url": "https://raw.githubusercontent.com/younessOfficel/Tsnif/master/telugu.json"
+  }
+]
